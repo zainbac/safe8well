@@ -1,0 +1,42 @@
+export const dummyData = [
+  {
+    title: 'Perkhidmatan Repair',
+    url:
+      'https://www.safe8well.my/image/safe8well/image/cache/data/safewell4-1920x744.jpg',
+    description:
+      'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
+    id: 1,
+  },
+  {
+    title: 'Food inside a Bowl',
+    url:
+      'https://www.safe8well.my/image/safe8well/image/cache/data/Website-Slider-Match-Online-Offline-1920x744.jpg',
+    description:
+      'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
+    id: 2,
+  },
+  {
+    title: 'Vegatable Salad',
+    url:
+      'https://i.ibb.co/JxykVBt/flat-lay-photography-of-vegetable-salad-on-plate-1640777.jpg',
+    description:
+      'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
+    id: 3,
+  },
+  {
+    title: 'Vegatable Salad',
+    url:
+      'https://i.ibb.co/JxykVBt/flat-lay-photography-of-vegetable-salad-on-plate-1640777.jpg',
+    description:
+      'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
+    id: 4,
+  },
+  {
+    title: 'Vegatable Salad',
+    url:
+      'https://i.ibb.co/JxykVBt/flat-lay-photography-of-vegetable-salad-on-plate-1640777.jpg',
+    description:
+      'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
+    id: 5,
+  },
+];
